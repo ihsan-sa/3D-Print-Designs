@@ -2,7 +2,7 @@
 
 I enjoy creating functional models for 3D printing and posting them on the Bambulab Makerworld platform.
 So far, my models have received over 3,500 downloads and $60 worth of boosts on the platform. 
-While some designs are posted in the repository, all of them are available at [https://makerworld.com/en/@iiks](url). 
+While some designs are posted in the repository, all of them are available at [https://makerworld.com/en/@iiks][https://makerworld.com/en/@iiks]. 
 Most of the designs were created by me, while a few were made by my younger siblings, as I am teaching them to use Fusion 360 as well!
 
 Some of my most successful designs include:
