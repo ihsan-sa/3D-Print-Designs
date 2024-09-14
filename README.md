@@ -12,10 +12,8 @@ Some of my most successful designs include:
 - Car vent cable and glasses holders
 - Ethernet cable mount
 
-
-
-![IMG-9212](https://github.com/user-attachments/assets/21723581-3e75-42f2-b542-632464dc5be9)
 ![IMG-0593](https://github.com/user-attachments/assets/c4e69664-1ac5-49de-9c99-83c64e722ef3)
 ![IMG-0737](https://github.com/user-attachments/assets/65deed70-e12b-42cf-9eba-d977bf0d7c96)
 ![IMG-9071](https://github.com/user-attachments/assets/dd4d0398-253c-4f86-948a-3b610ba8dc05)
 ![IMG-9180](https://github.com/user-attachments/assets/e24a9e5d-7a41-433d-beec-998ed027daf5)
+![IMG-9212](https://github.com/user-attachments/assets/21723581-3e75-42f2-b542-632464dc5be9)
